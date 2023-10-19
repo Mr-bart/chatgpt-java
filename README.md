@@ -124,6 +124,6 @@ npm install
 |   二开帮助  |   ❌  |   ✅  |
 |   专业售后服务  |   ❌  |   ✅  |
 ### 详细可联系
-VX:扫以下二维码
+VX:Mr-bart
 <br>
 ![输入图片说明](renren-admin/src/main/resources/public/wx.png)
